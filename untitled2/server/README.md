@@ -1,4 +1,4 @@
-# Niebo
+# Self Management Hub
 
 ## Server Setup
 
